@@ -4,7 +4,7 @@
 
 ### Reliability-Aware Residual Adaptation for Day–Night RGB–Event Semantic Segmentation
 
-[**Project Page**](https://eventshift-seg.github.io/) · [**Paper**](https://eventshift-seg.github.io/assets/paper.pdf) · [**Page Repository**](https://github.com/eventshift-seg/eventshift-seg.github.io)
+[**Project Page**](https://eventshift-seg.github.io/) · [**Paper**](https://eventshift-seg.github.io/assets/paper.pdf) · [**Code**](https://github.com/eventshift-seg/EventShift)
 
 </div>
 
@@ -18,7 +18,7 @@ EventShift preserves RGB as the semantic anchor and introduces event information
 
 The project page contains the final paper, full controlled ablation, DSEC11 evaluation, official challenge context, qualitative comparisons, and a transparent discussion of scope and limitations.
 
-> The research implementation is being prepared for release. No public code repository is claimed yet.
+The official implementation, environment specification, training and inference entry points, data preparation tools, and citation metadata are available in [`eventshift-seg/EventShift`](https://github.com/eventshift-seg/EventShift). Checkpoint downloads are being packaged separately.
 
 **Authors:** Shao-Kai Liu, Yun-Tze Tsai, Chia-Yu Lin, Chia-Ming Lee, and Chih-Chung Hsu  
 **Affiliations:** National Yang Ming Chiao Tung University and National Cheng Kung University, Taiwan
