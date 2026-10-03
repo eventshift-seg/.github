@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://eventshift-seg.github.io/">
-    <img src="https://eventshift-seg.github.io/assets/motivation.png" alt="EventShift day and night semantic segmentation overview" width="900">
+    <img src="https://eventshift-seg.github.io/assets/motivation-1600.webp" alt="EventShift day and night semantic segmentation overview" width="900">
   </a>
 </p>
 
